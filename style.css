@@ -3,7 +3,7 @@
 body {
     font-size: 13px;
     font-family: verdana;
-    color: #0D2B45;
+    color: #000000;
     background: #ffffff;
     line-height: 1.1rem;
 }
@@ -17,7 +17,7 @@ body {
 	top: 160px;
 	font-size: 36px;
 	font-weight: 800;
-	text-shadow: 4px 4px 0px #0d2b45;
+	text-shadow: 4px 4px 0px #000000;
 	padding-left: 10px
 }
 
@@ -131,13 +131,13 @@ h2 {
 }
 
 .thumb {
-    border: 1px solid #0D2B45;
+    border: 1px solid #000000;
 }
 
 textarea.code {
     padding: 6px 12px;
     color: #dbe1b6;
-    background: #0D2B45;
+    background: #000000;
     font-family: Consolas, monospace;
     font-size: 13px;
     min-width: 80%;
@@ -171,7 +171,7 @@ img {
 }
 
 pre {
-    background: #0D2B45;
+    background: #000000;
     display: block;
     color: #dbe1b6;
     padding: 12px;
